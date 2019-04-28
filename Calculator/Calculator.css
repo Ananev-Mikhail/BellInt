@@ -1,0 +1,12 @@
+.container{
+    width: 300px;
+    border-radius: 5px;
+    background: #b2b2b2;
+    text-align: center;
+    padding: 10px;
+}
+
+.inside{
+    margin: 0 auto;
+    padding: 5px;
+}
